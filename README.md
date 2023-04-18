@@ -3,9 +3,9 @@
 Power Consumption Monitoring is a Python-based script that uses PyQt5 framework and PowerLog, a command line version of Intel Power Gadget, to accurately measure the power consumption of individual applications on a computer. This tool functions by comparing power usage of the system at idle and during the application's operation.
 ## Tech Used  
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
-    <img src="https://codetorial.net/_images/0_pyqt_logo.png" width = 80 height = 30 title="PyQt5"/>
-    <img src="https://python-poetry.org/images/logo-origami.svg" width = 30 height = 30 title="Poetry"/>
+    <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/></a>
+    <a href="https://www.python.org/downloads/"><img src="https://codetorial.net/_images/0_pyqt_logo.png" width = 80 height = 30 title="PyQt5"/></a>
+    <a href="https://pypi.org/project/PyQt5/#:~:text=PyQt5%20is%20a%20comprehensive%20set,platforms%20including%20iOS%20and%20Android."><img src="https://python-poetry.org/images/logo-origami.svg" width = 30 height = 30 title="Poetry"/></a>
   </p>
 
 ## DIRECTORY
