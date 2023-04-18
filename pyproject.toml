@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "measure"
+version = "0.1.0"
+description = ""
+authors = ["csbhlim222 <csbhlim@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyqt5 = "^5.15.9"
+qasync = "^0.23.0"
+
+[tool.poetry.scripts]
+start = "python main.py"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
