@@ -4,8 +4,8 @@ Power Consumption Monitoring is a Python-based script that uses PyQt5 framework 
 ## Tech Used  
   <p>
     <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/></a>
-    <a href="https://pypi.org/project/PyQt5/#:~:text=PyQt5%20is%20a%20comprehensive%20set,platforms%20including%20iOS%20and%20Android."><img src="https://codetorial.net/_images/0_pyqt_logo.png" width = 80 height = 30 title="PyQt5"/></a>
-    <a href="https://python-poetry.org/"><img src="https://python-poetry.org/images/logo-origami.svg" width = 30 height = 30 title="Poetry"/></a>
+    <a href="https://pypi.org/project/PyQt5/#:~:text=PyQt5%20is%20a%20comprehensive%20set,platforms%20including%20iOS%20and%20Android."><img src="https://img.shields.io/badge/-PyQt5-00FF00?logo=qt&style=for-the-badge&logoColor=white" title="PyQt5"/></a>
+    <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/-poetry-000000?style=for-the-badge&logo=poetry&logoColor=white" title="Poetry"/></a>
   </p>
 
 ## DIRECTORY
